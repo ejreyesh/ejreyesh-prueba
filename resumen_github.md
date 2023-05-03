@@ -30,7 +30,7 @@
     9. Ingresar a la bandeja de entrada del correo electrónico registrado y verificar el código enviado por la plataforma.
     10. Capturar en el navegador el código recibido vía correo electrónico.
         > Cuando el sistema detecta que el código es correcto el sistema se redirige de forma automática.
-    12. En la nueva página presentada por GitHub se tiene una ventana en la que es necesario indicar el número de miembros que generalmente van a colaborar con su cuenta y el tipo de uso que se dará. Seleccionar las opciones que mejor se adapten a tus necesidades.
+    12. En la nueva página presentada por GitHub se tiene una ventana en la que es necesario indicar el número de miembros que generalmente van a colaborar con tu cuenta y el tipo de uso que se dará. Seleccionar las opciones que mejor se adapten a tus necesidades.
     13. Como siguiente paso se deben seleccionar las características específicas de GitHub que se estarán usando con la cuenta que está siendo creada. 
         > De la lista de características seleccionar “**Collaborative coding**”, “**Automation and CI/CD**”, “**Security**”, “**Project Management**” y “**Team administration**”.
     15. Presionar el botón de color azul que contiene la leyenda “**Continue**” que se ubica al término de la lista de características con las que cuenta GitHub.
