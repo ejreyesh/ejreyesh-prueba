@@ -75,7 +75,7 @@
     
     1. En la tienda de aplicaciones del equipo celular, buscar la aplicación “**Google Authenticator**” y descargarla.
     1. Una vez descargada e instalada la aplicación, iniciar sesión con la cuenta de su preferencia.
-5. **Activación de la autenticación en dos pasos de GitHub.**
+5. **Activación de la autenticación en dos pasos de GitHub (2FA).**
     <p align="center">
       <img src="https://user-images.githubusercontent.com/132395579/235992253-922095ad-9250-41f0-9fbd-abdd82c37fb0.png" width="500px"/>
       <br/>
