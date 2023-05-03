@@ -1,6 +1,6 @@
 # Creación de una cuenta Docker Hub
 
-> El objetivo del presente documento es indicar los pasos necesarios para la creación de una cuenta en la plataforma Docker Hub que es un servicio de repositorio para almacenar imágenes de Docker Container.**
+> El objetivo del presente documento es indicar los pasos necesarios para la creación de una cuenta en la plataforma Docker Hub que es un servicio de repositorio para almacenar imágenes de Docker Container.
 
 <img width="150" alt="docker-hub" src="https://user-images.githubusercontent.com/132395579/235978567-bfe2278f-0014-49de-af32-6b62da99e4c6.png">
 
@@ -35,8 +35,8 @@
 
 1. Acceder a la página principal de la plataforma Docker Hub con el siguiente enlace https://hub.docker.com/.
 1. Ubicar la opción “*Sign in*” que se ubica en la parte superior derecha de la pantalla. Este botón se ubica entre las opciones “*Pricing*” y “*Register*”.
-1. La siguiente página mostrada contiene un campo de entrada en el que es necesario capturar el nombre de usuario o dirección de correo electrónico asociado a la cuenta de Docker. Rellenar el campo marcado con la leyenda “*Username or email address*”.
+1. La siguiente página mostrada contiene un campo de entrada en el que es necesario capturar el nombre de usuario o dirección de correo electrónico asociado a la cuenta de Docker. Rellenar el campo marcado con la leyenda “*username or email address*”.
 1. Dar clic sobre el botón “*Continue*” que se muestra justo debajo del campo del formulario, el botón es de color azul.
-1. Dentro del formulario mostrado, en el campo “*Password*” ingresar la contraseña correspondiente a la cuenta a la cual se intenta acceder.
+1. Dentro del formulario mostrado, en el campo “*password*” ingresar la contraseña correspondiente a la cuenta a la cual se intenta acceder.
 1. Dar clic sobre el botón “*Continue*” que se ubica al término del formulario.
 1. Como paso final, el sistema Docker muestra el panel principal de la cuenta, dentro de este se tienen diversos apartados que permiten acceder a cada uno de los servicios asociados al plan seleccionado al crear la cuenta.
