@@ -5,10 +5,10 @@
 
 
 - **Para iniciar con el procedimiento es necesario ingresar a la dirección https://github.com/ desde cualquier navegador web. En la parte superior de la pantalla se encuentran dos opciones “Sign in” y “Sign up”, si usted ya tiene una cuenta creada en dicha plataforma diríjase al punto 3 del presente documento, en caso contrario continue con el paso 2.**
-- Si usted aún no tiene una cuenta de GitHub acceda a la opción “Sign up” y espere a que cargue la página.
+- **Si usted aún no tiene una cuenta de GitHub acceda a la opción “Sign up” y espere a que cargue la página.**
   - En el campo “Enter your email*” ingresar una dirección de correo electrónico y presionar el botón “Continue”.
   - En el campo “Create a password*” ingresar la contraseña de su cuenta y dar clic sobre el botón “Continue”. El botón antes mencionado se habilita después de haber ingresado una contraseña que tenga entre 8 y 15 caracteres incluyendo al menos un número y una letra mayúscula.
-- **En el campo “Enter a username*” ingresar un nombre de usuario que contenga al menos 3 caracteres. Cuando se habilite el botón “Continue” dar clic sobre el mismo.**
+  - En el campo “Enter a username*” ingresar un nombre de usuario que contenga al menos 3 caracteres. Cuando se habilite el botón “Continue” dar clic sobre el mismo.
   - El siguiente campo es para indicar si se quiere o no recibir publicidad en el correo electrónico registrado, ingresar una “y” en caso de que si se quieran recibir anuncios e ingresar una “n” en caso contrario. Posteriormente presionar el botón “Continue”
   -  Resolver el captcha que aparece en pantalla.
   -  Presionar el botón “Create account” cuando se haya terminado de rellenar el formulario.
