@@ -17,9 +17,9 @@
   <img src="https://user-images.githubusercontent.com/132395579/236001180-b5579e7e-3411-46e6-b4b7-e6b141b7261d.png" width="400px"/>
 </p>
 
-1. En el formulario mostrado en la página principal de la plataforma, ingresar en el campo “*Username*” el nombre de usuario que va a identificar la cuenta.
-1. Capturar el correo electrónico asociado a la cuenta dentro del campo “*Email*”.
-1. Ingresar la contraseña de la cuenta en el campo “*Password*”.
+1. En el formulario mostrado en la página principal de la plataforma, ingresar en el campo “*username*” el nombre de usuario que va a identificar la cuenta.
+1. Capturar el correo electrónico asociado a la cuenta dentro del campo “*email*”.
+1. Ingresar la contraseña de la cuenta en el campo “*password*”.
 1. De manera opcional marcar la casilla “*Send me occasional product updates and announcements*” en caso de que se quieran recibir noticias de la plataforma por medio del correo electrónico registrado.
 1. Marcar la casilla asociada a la leyenda “*I agree to the Subscription Service Agreement, Privacy Policy, and Data Processing Terms*”, donde se aceptan los términos y condiciones de la plataforma.
 1. Resolver el captcha del sistema con la finalidad de indicar que es un humano el que intenta hacer el registro.
