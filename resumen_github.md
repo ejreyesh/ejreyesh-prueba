@@ -1,4 +1,4 @@
-# Creación de un token en GitHub y su enlace con Google Authenticator --
+# Creación de un token en GitHub y su enlace con Google Authenticator
 > Las instrucciones que a continuación se presentan, tienen como objetivo principal conseguir la creación de un token en GitHub para que posteriormente sea enlazado con Google Authenticator como método de autenticación para aumentar la seguridad de la cuenta.
 
 <img src="https://user-images.githubusercontent.com/132395579/235983330-61787f16-61b8-4e2d-82d9-621b4e02b79b.jpg" width="200px"/>
