@@ -41,7 +41,8 @@
 
 1. Ingresar el correo electrónico o número telefónico asociado a la cuenta.
 1. En el campo “__Password__” ingresar la contraseña de la cuenta.
-1.  Presionar el botón “__Login__” que aparece justo debajo de los dos campos del formulario. El color del botón generalmente es de color morado.
+1.  Presionar el botón “__Login__” que aparece justo debajo de los dos campos del formulario.
+    > El color del botón generalmente es de color morado.
 
 ## ***Ingresar a un servidor Discord***
 <p align="center">
@@ -52,5 +53,5 @@
 
 1. Una vez que se inicia sesión con una cuenta Discord, se muestra el panel principal de la plataforma. En la parte izquierda de la pantalla se presenta una barra vertical que contiene una serie de iconos con diversas funciones. Ubicar el icono que contiene un signo “__+__” y dar clic sobre del mismo.
 1. Presionar el botón “__Únete a un servidor__” que aparece en la parte inferior de la ventana mostrada.
-1. En el formulario mostrado; capturar o pegar en el campo “__Enlace de invitación__” el link compartido por el propietario del canal.
-1. Presionar el botón “__Unirse al servidor__” que se ubica en la parte inferior derecha de la ventana mostrada por el sistema Discord. Si el enlace es válido, el sistema mostrara el chat del servidor. En caso de existir algún error, el sistema mostrara un mensaje de alerta. Si no existen inconvenientes, se da por terminado el proceso para ingresar a un servidor Discord y se puede iniciar con la interacción en el antes mencionado.
+1. En el formulario mostrado: capturar o pegar en el campo “__Enlace de invitación__” el link compartido por el propietario del canal.
+1. Presionar el botón “__Unirse al servidor__” que se ubica en la parte inferior derecha de la ventana mostrada por el sistema Discord. Si el enlace es válido, el sistema mostrará el chat del servidor. En caso de existir algún error, el sistema despliega un mensaje de alerta. Si no existen inconvenientes, se da por terminado el proceso para ingresar a un servidor Discord y se puede iniciar con la interacción en el antes mencionado.
