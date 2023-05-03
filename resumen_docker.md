@@ -8,7 +8,7 @@
 1. Desde cualquier navegador web ingresar a la dirección https://hub.docker.com/.
 1. Si ya se cuenta con una cuenta para hacer uso de los servicios ofrecidos por Docker Hub pasar al punto 3 del presente documento, de lo contrario, seguir las instrucciones del punto número 2.
 
-### Creación de una cuenta Docker Hub.
+### Creación de una cuenta Docker Hub
 1. En el formulario mostrado en la página principal de la plataforma, ingresar en el campo “Username” el nombre de usuario que va a identificar la cuenta.
 1. Capturar el correo electrónico asociado a la cuenta dentro del campo “Email”.
 1. Ingresar la contraseña de la cuenta en el campo “Password”.
@@ -20,7 +20,7 @@
 1. Dentro del contenido del correo enviado por Docker Hub, dar clic sobre el botón “Verify email address”. 
 1. Al verificar el correo electrónico, el sistema abre una nueva pestaña en el navegador web y muestra diversos planes para el uso de los servicios de la plataforma. De los planes mostrados, seleccionar la opción que mejor se adapte a sus necesidades. Con lo anterior se da por finalizada la creación de la cuenta Docker Hub.
 
-### Inicio de sesión con una cuenta Docker Hub.
+### Inicio de sesión con una cuenta Docker Hub
 1. Acceder a la página principal de la plataforma Docker Hub con el siguiente enlace https://hub.docker.com/.
 1. Ubicar la opción “Sign in” que se ubica en la parte superior derecha de la pantalla. Este botón se ubica entre las opciones “Pricing” y “Register”.
 1. La siguiente página mostrada contiene un campo de entrada en el que es necesario capturar el nombre de usuario o dirección de correo electrónico asociado a la cuenta de Docker. Rellenar el campo marcado con la leyenda “Username or email address”.
