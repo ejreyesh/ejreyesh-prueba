@@ -1,14 +1,19 @@
 # Creación de un token en GitHub y su enlace con Google Authenticator
 > Las instrucciones que a continuación se presentan, tienen como objetivo principal conseguir la creación de un token en GitHub para que posteriormente sea enlazado con Google Authenticator como método de autenticación para aumentar la seguridad de la cuenta.
-
-<img src="https://user-images.githubusercontent.com/132395579/235983330-61787f16-61b8-4e2d-82d9-621b4e02b79b.jpg" width="200px"/>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/132395579/235983330-61787f16-61b8-4e2d-82d9-621b4e02b79b.jpg" width="200px"/>
+</p>
 
 1. **Para iniciar con el procedimiento es necesario ingresar a la dirección https://github.com/ desde cualquier navegador web. En la parte superior de la pantalla se encuentran dos opciones “Sign in” y “Sign up”, si usted ya tiene una cuenta creada en dicha plataforma diríjase al punto 3 del presente documento, en caso contrario continue con el paso 2.**
-![image](https://user-images.githubusercontent.com/132395579/235987431-fa1fe865-f963-4c6c-8999-ed3628997fbb.png)
+    <p align="center">
+      <img src="https://user-images.githubusercontent.com/132395579/235987431-fa1fe865-f963-4c6c-8999-ed3628997fbb.png" width="500px"/>
+    </p>
 
 2. **Si usted aún no tiene una cuenta de GitHub acceda a la opción “Sign up” y espere a que cargue la página.**
-    ![image](https://user-images.githubusercontent.com/132395579/235990337-5738ee8d-b1d8-427a-ba29-c62aaf7caad5.png)
+    <p align="center">
+        <img src="https://user-images.githubusercontent.com/132395579/235990337-5738ee8d-b1d8-427a-ba29-c62aaf7caad5.png" width="500px"/>
+    </p>
+    
     1. En el campo “Enter your email*” ingresar una dirección de correo electrónico y presionar el botón “Continue”.
     3. En el campo “Create a password*” ingresar la contraseña de su cuenta y dar clic sobre el botón “Continue”. El botón antes mencionado se habilita después de haber ingresado una contraseña que tenga entre 8 y 15 caracteres incluyendo al menos un número y una letra mayúscula.
     4. En el campo “Enter a username*” ingresar un nombre de usuario que contenga al menos 3 caracteres. Cuando se habilite el botón “Continue” dar clic sobre el mismo.
@@ -23,12 +28,18 @@
     9. En la nueva página mostrada por GitHub, seleccionar el plan que mejor se adapte a las necesidades de usted como usuario. Existen dos planes, uno que es gratuito y un segundo que es de paga. Dependiendo de la decisión tomada, presionar el botón que se ubica al término de la lista de características que posee cada una de las ofertas. En este caso se presiona el botón “Continue for free”.
     10. GitHub como manera de confirmar que la cuenta se creó exitosamente, muestra una animación, al término de la antes mencionada muestra el panel principal de la cuenta.
 3. **Cuando ya se tenga una cuenta de GitHub, ingresar en la opción “Sign in”, esto mostrara el formulario de acceso a la cuenta.**
-    ![image](https://user-images.githubusercontent.com/132395579/235991625-8883ad41-71dd-427a-8ef8-f813b3783e4c.png)
+    <p align="center">
+        <img src="https://user-images.githubusercontent.com/132395579/235991625-8883ad41-71dd-427a-8ef8-f813b3783e4c.png" width="500px"/>
+    </p>
+    
     1. Ingresar el nombre de usuario o correo electrónico en el campo “Username or email address” del formulario.
     1. Ingresar la contraseña de la cuenta en el campo “Password” del formulario.
     1. Dar clic sobre el botón “Sign in”.
 4. **Para crear el token de GitHub es necesario ya haber ingresado a la cuenta.**
-    ![image](https://user-images.githubusercontent.com/132395579/235992082-fd5965ba-7c0a-4493-9042-89bfbf098fdc.png)
+    <p align="center">
+        <img src="https://user-images.githubusercontent.com/132395579/235992082-fd5965ba-7c0a-4493-9042-89bfbf098fdc.png" width="500px"/>
+    </p>
+    
     1. Buscar la imagen de perfil que aparece en la parte superior derecha de la pantalla y dar clic sobre de ella.
     1. Dentro del menú desplegado, buscar la opción “Settings” y acceder a ella.
     1. En la página mostrada, ubicar la lista de opciones que aparecen debajo de la imagen de perfil, esto del lado izquierdo de la pantalla. Navegar hacia la parte inferior de la página y ubicar la opción “Developer settings”, ingresar a ella.
@@ -42,11 +53,17 @@
     1. Después de seleccionar los permisos del token, presionar el botón “Generate token” que aparece al final de la página en color verde.
     1. Copiar el token que se muestra en la nueva página mostrada en el navegador.
 4. **Descarga de Google Authenticator en un equipo celular.**
-    ![1366_2000](https://user-images.githubusercontent.com/132395579/235992685-ea3a7b90-f5f2-49a1-a729-49c4b7c29b41.jpg)
+    <p align="center">
+        <img src="https://user-images.githubusercontent.com/132395579/235992685-ea3a7b90-f5f2-49a1-a729-49c4b7c29b41.jpg" width="500px"/>
+    </p>
+    
     1. En la tienda de aplicaciones del equipo celular, buscar la aplicación “Google Authenticator” y descargarla.
     1. Una vez descargada e instalada la aplicación, iniciar sesión con la cuenta de su preferencia.
 5. **Activación de la autenticación en dos pasos de GitHub.**
-    ![image](https://user-images.githubusercontent.com/132395579/235992253-922095ad-9250-41f0-9fbd-abdd82c37fb0.png)
+    <p align="center">
+        <img src="https://user-images.githubusercontent.com/132395579/235992253-922095ad-9250-41f0-9fbd-abdd82c37fb0.png" width="500px"/>
+    </p>
+    
     1. Buscar la imagen de perfil que aparece en la parte superior derecha de la pantalla y dar clic sobre de ella.
     1. Dentro del menú desplegado, buscar la opción “Settings” y acceder a ella.
     1. En la página mostrada, ubicar la lista de opciones que aparecen debajo de la imagen de perfil, esto del lado izquierdo de la pantalla. Navegar hacia la parte inferior de la página y ubicar la opción “Password and authentication”, ingresar a ella.
@@ -59,7 +76,10 @@
     1. Una vez que se descargó un archivo con extensión .txt, presionar el botón “I have saved my recovery codes”.
     1. Como último paso, presionar el botón “Done” que se muestra en la página de confirmación de GitHub, con esto está finalizado el proceso de activación de autenticación en dos pasos.
 6. **Comprobar que la autenticación mediante “Google Authenticator” funcione correctamente.**
-    ![image](https://user-images.githubusercontent.com/132395579/235993434-1b8fd89b-68f3-40b2-84d9-73b05f111329.png)
+    <p align="center">
+        <img src="https://user-images.githubusercontent.com/132395579/235993434-1b8fd89b-68f3-40b2-84d9-73b05f111329.png" width="500px"/>
+    </p>
+    
     1. Para comprobar que el proceso se haya llevado a cabo correctamente, es necesario cerrar la sesión de GitHub, para esto se debe buscar la imagen de perfil que aparece en la parte superior derecha de la pantalla y dar clic sobre de ella.
     1. Dentro del menú desplegado, buscar la opción “Sign out” y acceder a ella.
     1. Para iniciar sesión seleccionar la opción “Sign in” que se ubica en la parte superior derecha de la pantalla, lo anterior muestra el formulario de acceso al sistema.
