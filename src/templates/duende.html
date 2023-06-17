@@ -1,0 +1,120 @@
+<html>
+    <head>
+        <style>
+            .nombre {
+                font-size: 24px;
+            }
+            .titulo {
+                font-size: 22px;
+            }
+            .token {
+                font-size: 20px;
+            }
+            .space {
+                height: 80px;
+            }
+            .mono {
+              background-color: #4D035F;
+            }
+            .mono img {
+                width: 400px;
+                position: absolute;
+                top: -30px;
+                left: -30px;
+            }
+            .space span {
+                color: yellow;
+                font-family: sans-serif;
+                font-size: 24px;
+            }
+            p {
+                color:#ffffff;
+                top: 100px;
+                font-size: 30px;
+                font-weight: bolder;
+                padding-top: 100px;
+                margin-left: 300px;
+            }
+            table {
+                background-color: #4D035F;
+                width: 400px;
+                border: 0;
+                border-collapse: collapse;
+                box-sizing: 0;
+            }
+            .texto {
+                color: #ffffff;
+                text-align: center;
+                font-family: sans-serif;
+                font-weight: bolder;
+            }
+            .header {
+                background-color: #000000;
+                padding-bottom: 20px;
+                font-size: 36px;
+            }
+            .bottom {
+                background-color: #82BB30;;
+                color:#ffffff;
+                text-align: center;
+                font-family: sans-serif;
+            }
+            .dato {
+                font-size: 26px;
+                font-weight: bolder;
+                width: 33%;
+            }
+            .leyenda {
+                font-size: 10px;
+                font-weight: bolder;
+            }
+        </style>
+    </head>
+    <body>
+        <div style="margin: auto; width: 420px;">
+            <table>
+                <tr class="texto header space">
+                    <td>FRUTILANDIA</td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td><img class="mono" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/goblin.png" alt="goblin" /></td>
+                </tr>
+                <tr class="space">
+                    <td class="texto nombre">Estimad&iacute;simo %NOMBRE%</td>
+                </tr>
+                <tr class="space">
+                    <td class="texto titulo">Olvidaste tu clave de acceso?</td>
+                </tr>
+                <tr class="space">
+                    <td class="texto token">Este es tu token de recuperaci&oacute;n: <span>%TOKEN%</span></td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <table class="bottom">
+                            <tr><td colspan=3>&nbsp;</td></tr>
+                            <tr><td colspan=3>Actualiza to clave antes de:</td></tr>
+                            <tr><td colspan=3>&nbsp;</td></tr>
+                            <tr>
+                                <td class="dato">%HORA%</td>
+                                <td class="dato">%MINUTO%</td>
+                                <td class="dato">%SEGUNDO%</td>
+                            </tr>
+                            <tr>
+                                <td class="leyenda">HORAS</td>
+                                <td class="leyenda">MINUTOS</td>
+                                <td class="leyenda">SEGUNDOS</td>
+                            </tr>
+                            <tr><td colspan=3>&nbsp;</td></tr>
+                        </table>
+                    </td>
+                </tr>
+           </table>
+        </div>
+    </body>
+</html>
